@@ -2,9 +2,6 @@
   🐾 Dijital Evcil Hayvan
 </h1>
 
-<p align="center">
-  <img src="assets/images/icon.png" width="120" alt="App Icon" />
-</p>
 
 <p align="center">
   <strong>React Native & Expo ile geliştirilmiş, evcil hayvan simülasyonu ve oyunlaştırma tabanlı mobil uygulama.</strong>
