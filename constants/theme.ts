@@ -51,3 +51,40 @@ export const Fonts = Platform.select({
     mono: "SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace",
   },
 });
+
+// ─── Oyun Renk Paleti ─────────────────────────────────────────────────────────
+export const GameColors = {
+  // Oda arka planları
+  room:     "#C8E6C9",
+  kitchen:  "#FFE0B2",
+  bathroom: "#B3E5FC",
+  toilet:   "#E1BEE7",
+  games:    "#F3E5F5",
+
+  // Butonlar
+  feedBtn:    "#FF7043",
+  playBtn:    "#42A5F5",
+  bathBtn:    "#26C6DA",
+  toiletBtn:  "#AB47BC",
+  sleepBtn:   "#5C6BC0",
+  shopBtn:    "#78909C",
+
+  // İhtiyaç barları
+  barHunger:      "#FF7043",
+  barHappiness:   "#FFCA28",
+  barCleanliness: "#26C6DA",
+  barEnergy:      "#66BB6A",
+  barToilet:      "#AB47BC",
+  barWarning:     "#EF5350",
+  barBg:          "#E0E0E0",
+
+  // HUD
+  hudBg:      "rgba(0,0,0,0.35)",
+  levelRing:  "#69F0AE",
+  coinGold:   "#FFC107",
+  xpBlue:     "#40C4FF",
+
+  // Kart
+  cardBg:     "#FFFFFF",
+  cardShadow: "#00000033",
+};
