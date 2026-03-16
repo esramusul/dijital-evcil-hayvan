@@ -166,7 +166,9 @@ dijital-evcil-hayvan.apk
 ## 👩‍💻 Geliştirici
 
 **Esra Musul**
-- GitHub: [@esramusul](https://github.com/esramusul/dijital-evcil-hayvan)
+
+- LinkedIn: [Esra Musul](https://www.linkedin.com/posts/esra-musul-970789294_dijital-evcil-hayvan-react-native-expo-share-7439275798877954048-hoQT?utm_source=share&utm_medium=member_desktop)
+
 
 ---
 
